@@ -19,9 +19,6 @@ const Friends = () => {
                      }
               </div>
               
-              // {
-              //        friends.map( friend => <Friend key={friend.id} friend={friend}></Friend>)
-              //    }
        );
 };
 
